@@ -9,6 +9,8 @@ Your GDCC membership helps us
 
 As a GDCC member organization, you will profit from the above benefits. In addition, your employees will profit from reduced rates at Dataverse community events.
 
+Individual Dataverse community members are featured on [people.dataverse.org](https://people.dataverse.org).
+
 We welcome applications from all organizations. You will find the membership form on our [Sign-Up page](https://www.gdcc.io/sign-up.html).
 
 ## Current GDCC Members:
