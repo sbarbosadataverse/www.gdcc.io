@@ -9,6 +9,7 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 - [Large Data Support](working-groups/large-data-support)
 - [pyDataverse](https://py.gdcc.io)
 - [Sensitive Data](working-groups/sensitive-data)
+- [Indigenous Data Sovereignty Working Group](working-groups/IDS)
 
 ## Inactive
 - Computational Workflows
